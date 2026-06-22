@@ -1,9 +1,7 @@
-# Vibe-Coding-Course-With-Google-and-Kaggle
-5-Day AI Agents: Intensive Vibe Coding Course With Google
+# 5-Day AI Agents: Intensive Vibe Coding Course With Google
 
 5-Day AI Agents- Intensive Vibe Coding Playlist: https://www.youtube.com/playlist?list=PLqFaTIg4myu8AFXUjrVhDkUGp0A9kK8CX
 
-=========================
 # Day 1: "Introduction to Agents & Vibe Coding"
 -- Day 1: Listen to the summary podcast episode for this unit. -- https://www.youtube.com/watch?v=cbzmr7vt4XA
 
@@ -21,7 +19,6 @@ Today's whitepaper talks about the transition from manual syntax coding to inten
 
 In the codelabs, you'll familiarize yourself with Antigravity 2.0, the Antigravity IDE, and the Antigravity CLI to vibecode your first applications. You'll also use Google AI Studio to deploy your app to Cloud Run, enabling you to share your vibe coded app with your friends.
 
-==================
 # Day 2: "Agent Tools & Interoperability”
 -- Whitepaper Companion Podcast: Agent Tools & Interoperability: https://www.youtube.com/watch?v=GjjKXqxFTOY
 
@@ -38,7 +35,7 @@ In the codelabs, you'll familiarize yourself with Antigravity 2.0, the Antigravi
 Today's whitepaper talks about standardizing the plug-and-play AI ecosystem using open protocols to eliminate the complex technical debt of custom tool integrations. It details how the Model Context Protocol (MCP) connects models to data sources, outlines Agent2Agent (A2A) collaboration, showcases Agent-to-User Interface (A2UI) for generative UI, and introduces Agent Payments Protocol (AP2) and Universal Commerce Protocol (UCP) for secure machine-to-machine commerce.
 
 In today's codelabs, you'll learn how to add MCP servers to Antigravity, giving it access to the canonical, machine-readable source of Google's public developer documentation. You'll then extend your familiarity with Antigravity by using it via the terminal with Antigravity CLI.
-======================
+
 # Day 3: “Agent Skills”
 -- Podcast: https://www.youtube.com/watch?v=uYURYHhpmKc
 
@@ -53,7 +50,7 @@ In today's codelabs, you'll learn how to add MCP servers to Antigravity, giving 
 Today's whitepaper talks about managing dynamic context and avoiding "context rot" by equipping agents with portable "Agent Skills", directories structured around a central SKILL.md file. It explains how this framework uses progressive disclosure to keep system prompts lightweight, loading execution details and tools only on demand so that single agents can flex into hundreds of specialist roles efficiently.
 
 In the codelabs, you will familiarize yourself with skills in Antigravity. Then, using Antigravity, you will install and use Agents CLI skills to create agents, lint your code, and test your agent, all by using natural language prompts.
-=====================
+
 # Day 4: “Vibe Coding Agent Security and Evaluation”:
 -- Listen to the summary podcast.
 
@@ -69,7 +66,7 @@ Complete these codelabs: https://www.kaggle.com/whitepaper-vibe-coding-agent-sec
 Today's whitepaper talks about redefining security and evaluation in non-deterministic AI workflows by establishing continuous "Effective Trust" through a strict 7-pillar architecture. It outlines practical safeguards such as ephemeral sandboxing, defenses against hallucinated "slopsquatting" packages, an active Red/Blue/Green security triad, and OpenTelemetry trajectory evaluation.
 
 In the codelabs, you will create an agent with human-in-the-loop so that humans can manually intervene, using ADK, Agents CLI and Antigravity. You will also learn about how to develop a secure, test-driven development with Antigravity.
-===============
+
 # Day 5: “Spec-Driven Production Grade Development in the Age of Vibe Coding”:
 -- Listen to the summary podcast.: https://www.youtube.com/watch?v=Ddz1b8CYPvg
 
@@ -77,7 +74,6 @@ In the codelabs, you will create an agent with human-in-the-loop so that humans 
 
 -- Complete these codelabs:
 [Optional] Deploy and host your AI agents on Google Cloud: https://c.gle/AOPyDKTVWVM_sdJfTa27oeh46KelboJQOR_rao_rfBQsiteUOi2oifHeEKDUGYFmAN0DdlA1R7QEB3sspIIwkYBOp-3DnJmWTvItP79rv1NRTol9k7j5iKkhtAoTsFS1nmynnMR8vmiRabW8tul2cAuG0iz3klyyMctx4fGVx6wEeUhKn1gESipbklAzSzuoUy5RmK0C8FkdO9_ihyWGftBe-65GfzJpu5fMQu7SYZYc2KhfZu4m0vyzdCBlUC711PpnIhJR_k1guHzxCWcDDwMP_AXL-5QQ2Z76fJhYFQCVh-PYOhPXGW7VXeQr_ftoGus6zg63XP1Nkk_jIAJmFRh6xMohpoQWGlThIL3dqBQKXr-r7gRQU4nTRmA
-
 
 -- [Optional] Build a front-end web app and link it to your cloud-hosted AI agent -- https://c.gle/AOPyDKTVWVM_sdJfTa27oeh46KelboJQOR_rao_rfBQsiteUOi2oifHeEKDUGYFmAN0DdlA1R7QEB3sspIIwkYBOp-3DnJmWTvItP79rv1NRTol9k7j5iKkhtAoTsFS1nmynnMR8vmiRabW8tul2cAuG0iz3klyyMctx4fGVx6wEeUhKn1gESipbklAzSzuoUy5RmK0C8FkdO9_ihyWGftBe-65GfzJpu5fMQu7SYZYc2KhfZu4m0vyzdCBlUC711PpnIhJR_k1guHzxCWcDDwMP_AXL-5QQ2Z76fJhYFQCVh-PYOhPXGW7VXeQr_ftoGus6zg63XP1Nkk_jIAJmFRh6xMohpoQWGlThIL3dqBQKXr-r7gRQU4nTRmA
 
